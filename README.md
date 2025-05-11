@@ -12,8 +12,8 @@
 <details>
 <summary>💡 Skills</summary>
 
-- **Languages:** HTML, Java  
-- **Basics:** Python, C  
+- **Languages:** HTML , Java  
+- **Basics:** Python , C  
 - **Tools:** GitHub  
 
 </details>
@@ -23,7 +23,7 @@
 
 ### 🔹 Periodic Navigator  
 A simple, interactive web app for quick periodic-table look-ups.  
-**Tech Stack:** HTML · CSS · JavaScript
+**Tech Stack:** HTML , CSS , JavaScript
 
 <!-- Add more projects here when you’re ready -->
 
@@ -35,6 +35,9 @@ A simple, interactive web app for quick periodic-table look-ups.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akalya1722&show_icons=true&theme=radical&bg_color=0d1117&title_color=00bcd4&icon_color=ff7b7b" width="410"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalya1722&layout=compact&theme=radical&bg_color=0d1117&title_color=00bcd4&icon_color=ff7b7b" width="350"/>
 </p>
 
