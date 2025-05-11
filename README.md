@@ -4,7 +4,7 @@
 
 <p align="center">
 🎓 B.Tech IT Student at <b>K. Ramakrishnan College of Engineering</b><br/>
-💻 Front-End Developer |  Proactive Learner
+💻 Front-End Developer | Proactive Learner
 </p>
 
 ---
@@ -12,9 +12,9 @@
 <details>
 <summary>💡 Skills</summary>
 
-- **Languages :** HTML, Java  
-- **Basics :** Python, C  
-- **Tools  :** Git, GitHub  
+- **Languages:** HTML, Java  
+- **Basics:** Python, C  
+- **Tools:** Git, GitHub  
 
 </details>
 
@@ -23,7 +23,7 @@
 
 ### 🔹 Periodic Navigator  
 A simple, interactive web app for quick periodic-table look-ups.  
-**Tech Stack :** HTML · CSS · JavaScript
+**Tech Stack:** HTML · CSS · JavaScript
 
 <!-- Add more projects here when you’re ready -->
 
@@ -55,7 +55,7 @@ A simple, interactive web app for quick periodic-table look-ups.
 </p>
 
 <p align="center">
-  📧 akalyaannadurai483@gmail.com
+  📧 <a href="mailto:akalyaannadurai483@gmail.com">akalyaannadurai483@gmail.com</a>
 </p>
 
 ---
