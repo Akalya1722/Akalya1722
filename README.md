@@ -25,6 +25,12 @@
 A simple, interactive web app for quick periodic-table look-ups.  
 **Tech Stack:** HTML , CSS , JavaScript
 
+
+### 🔹 Online Pharmacy  
+A web app to order medicines online and get them delivered to your doorstep.  
+**Tech Stack :** HTML , CSS , JavaScript
+
+
 <!-- Add more projects here when you’re ready -->
 
 </details>
