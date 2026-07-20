@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akalya A</h1>
 
 <p align="center">
-🎓 B.Tech IT Student at <b>K. Ramakrishnan College of Engineering</b><br/>
+🎓 B.Tech IT Graduate at <b>K. Ramakrishnan College of Engineering</b><br/>
 💻 Front-End Developer | Proactive Learner
 </p>
 
@@ -12,14 +12,35 @@
 <details>
 <summary>💡 Skills</summary>
 
-- **Languages:** HTML , Java  
-- **Basics:** Python , C  
-- **Tools:** GitHub  
+- **Programming & Database:** Java, SQL, MySql  
+- **Frontend:**  HTML, CSS, Javascript, React js, Bootstrap
+- **Tools:** GitHub, Git, VS Code
 
 </details>
 
 <details>
 <summary>🔬 Projects</summary>
+
+### 🔹 Deep Learning-Based Uterine Fibroid Detection System 
+• Developed a web-based uterine fibroid detection system using the YOLO model to detect fibroids from ultrasound
+images.
+• Enabled instant detection with highlighted regions, helping doctors reduce manual diagnosis time.
+• Built a web interface to integrate the trained model for automated image analysis and improved diagnostic efficiency.
+**Tech Stack:** Open CV, Python, YOLO, HTML, CSS, JavaScript
+
+### 🔹 Driver Fatigue Alert and Monitoring System 
+• Built a computer vision system to detect driver drowsiness through facial and eye-blink pattern analysis.
+• Designed an automated OpenCV pipeline that continuously scans live video frames without manual intervention.
+• Sends instant audio alerts once fatigue is detected, helping reduce the risk of road accidents. 
+**Tech Stack:** Python, OpenCV, Computer Vision, HTML, CSS, JavaScript
+
+### 🔹 Instagram Clone – React.js  
+• Developed a responsive Instagram Clone using reusable React components and Bootstrap 5.
+• Implemented Stories, Story Viewer, Post Feed, Profile, Suggestions, Like, Follow/Following, Comment, and CRUD
+operations.
+• Managed application state using React Hooks and Props, integrating JSON Server and Fetch API for dynamic data
+rendering.
+**Tech Stack:**  React.js, JavaScript, HTML5, CSS3, Bootstrap 5, React Router DOM, JSON Server, Fetch API
 
 ### 🔹 Periodic Navigator  
 A simple, interactive web app for quick periodic-table look-ups.  
